@@ -3,7 +3,7 @@ I´m practicing in Codewars.
 
 ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 
-My main way to learn is in [Platzi](https://platzi.com/p/JesusmtzC/)
+My main way to learn is in [Platzi](https://platzi.com/p/Jssmtzc/)
 
 These are technologies I am using:
 
