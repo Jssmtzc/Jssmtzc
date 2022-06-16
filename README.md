@@ -1,5 +1,5 @@
 ### Hi there 👋 I am using technologies such as Python and HTML for my personal projects.
-I´m practicing in Codewars.         
+I´m practicing in [Codewars](https://www.codewars.com/users/JosedeJesusMtzCruz).         
 
 ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 
